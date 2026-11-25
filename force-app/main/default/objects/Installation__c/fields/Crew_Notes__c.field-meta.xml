@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Crew_Notes__c</fullName>
+    <description>Free text note with the purpose to handover details to the next shift.</description>
+    <inlineHelpText>Details to the next shift crew</inlineHelpText>
+    <label>Crew Notes</label>
+    <length>4000</length>
+    <trackTrending>false</trackTrending>
+    <type>LongTextArea</type>
+    <visibleLines>3</visibleLines>
+</CustomField>
